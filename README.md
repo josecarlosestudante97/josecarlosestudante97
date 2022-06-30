@@ -1,4 +1,6 @@
-ola meu nome jose
+# Sobre mim
+
+Olá meu nome José
 estou enteressado em estudar computacao
 
-<img src"https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
